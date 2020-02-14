@@ -1,11 +1,11 @@
 # Problem-Solving
 
--BOJ
+- BOJ
 
--SW EXPERT ACADEMY
+- SW EXPERT ACADEMY
 
--정올
+- 정올
 
--프로그래머스
+- 프로그래머스
 
--ETC
+- ETC
